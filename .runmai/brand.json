@@ -1,0 +1,33 @@
+{
+  "schema": "runmai-brand/v1",
+  "company": "entrusted",
+  "group": "client",
+  "title": "Entrusted Lawncare Route",
+  "tagline": "",
+  "thumbnail": ".runmai/thumb.png",
+  "accent": "#649954",
+  "types": [],
+  "versions": [
+    {
+      "label": "v1 — Current",
+      "status": "internal",
+      "ref": "main",
+      "url": "",
+      "released": ""
+    }
+  ],
+  "aiButtons": [
+    {
+      "id": "summarize",
+      "label": "Summarize repo",
+      "action": "ai:summarize"
+    },
+    {
+      "id": "changelog",
+      "label": "Draft changelog",
+      "action": "ai:changelog"
+    }
+  ],
+  "tags": [],
+  "order": 20
+}
